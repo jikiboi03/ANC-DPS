@@ -1,0 +1,4 @@
+cis_model will be used for all notifications by adding methods
+cis_model left join with other tables
+dashboard controller is used for count_all
+cis_controller will be used. having 3 ajax_list per notification
